@@ -54,7 +54,6 @@ public class TabSelectedAnimationActivity extends AppCompatActivity {
     private boolean isFirstIn = true;
     private boolean isRight;
     private int scrollCha;
-    private List<String> tagList;
     private boolean isTabChanged; //是否由后台控制变化了tab
 
     @Override
