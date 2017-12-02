@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AnimationAndCustomView</string>
+
+    <string name="viewpager_tablayout">ViewPager及TabLayout切换揭露动画</string>
+    <string name="pull_back">下拉回弹</string>
+
+</resources>
